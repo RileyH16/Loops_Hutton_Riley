@@ -1,0 +1,13 @@
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\bin\Debug\netcoreapp3.1\Loops_Hutton_Riley.exe
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\bin\Debug\netcoreapp3.1\Loops_Hutton_Riley.deps.json
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\bin\Debug\netcoreapp3.1\Loops_Hutton_Riley.runtimeconfig.json
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\bin\Debug\netcoreapp3.1\Loops_Hutton_Riley.runtimeconfig.dev.json
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\bin\Debug\netcoreapp3.1\Loops_Hutton_Riley.dll
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\bin\Debug\netcoreapp3.1\Loops_Hutton_Riley.pdb
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\obj\Debug\netcoreapp3.1\Loops_Hutton_Riley.csproj.AssemblyReference.cache
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\obj\Debug\netcoreapp3.1\Loops_Hutton_Riley.AssemblyInfoInputs.cache
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\obj\Debug\netcoreapp3.1\Loops_Hutton_Riley.AssemblyInfo.cs
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\obj\Debug\netcoreapp3.1\Loops_Hutton_Riley.csproj.CoreCompileInputs.cache
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\obj\Debug\netcoreapp3.1\Loops_Hutton_Riley.dll
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\obj\Debug\netcoreapp3.1\Loops_Hutton_Riley.pdb
+C:\Users\riley.hutton\source\repos\Loops_Hutton_Riley\obj\Debug\netcoreapp3.1\Loops_Hutton_Riley.genruntimeconfig.cache
